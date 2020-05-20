@@ -1,0 +1,9 @@
+.guideSection {
+  & + .guideSection {
+    margin-top: $euiSizeXL * 2;
+  }
+}
+
+.guideSection__space {
+  height: $euiSizeL;
+}

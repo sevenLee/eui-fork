@@ -404,6 +404,7 @@ export class EuiSuperDatePicker extends Component {
   };
 
   handleClickUpdateButton = () => {
+    alert('change ok!!');
     if (!this.state.hasChanged && this.props.onRefresh) {
       const { start, end, refreshInterval } = this.props;
       this.props.onRefresh({ start, end, refreshInterval });

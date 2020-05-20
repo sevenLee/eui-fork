@@ -1,7 +1,7 @@
 {
   "name": "@elastic/eui",
   "description": "Elastic UI Component Library",
-  "version": "18.2.1",
+  "version": "1.0.0",
   "license": "Apache-2.0",
   "main": "lib",
   "module": "es",
@@ -40,9 +40,6 @@
     "type": "git",
     "url": "https://github.com/sevenLee/eui-fork.git"
   },
-  "pre-commit": [
-    "test-staged"
-  ],
   "dependencies": {
     "@types/chroma-js": "^1.4.3",
     "@types/lodash": "^4.14.116",

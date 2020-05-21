@@ -1,7 +1,7 @@
 {
   "name": "eui-fork",
   "description": "Elastic UI Component Library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "Apache-2.0",
   "main": "lib",
   "module": "es",

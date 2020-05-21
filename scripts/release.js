@@ -38,7 +38,7 @@ const humanReadableTypes = {
 
   // prompt user for what type of version bump to make (major|minor|patch)
   // const versionTarget = await getVersionTypeFromChangelog();
-  const versionTarget = '1.0.1';
+  const versionTarget = '1.0.2';
 
   // build may have generated a new src-docs/src/i18ntokens.json file, dirtying the git workspace
   // it's important to track those changes with this release, so determine the changes and write them
